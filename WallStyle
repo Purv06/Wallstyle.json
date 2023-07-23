@@ -1,99 +1,6 @@
 [
     		{
 			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(1).jpeg",
-			"name": "Abstract 1",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(10).jpeg",
-			"name": "Abstract 2",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(11).jpeg",
-			"name": "Abstract 3",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(13).jpeg",
-			"name": "Abstract 4",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(2).jpeg",
-			"name": "Abstract 5",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(3).jpeg",
-			"name": "Abstract 6",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(4).jpeg",
-			"name": "Abstract 7",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(5).jpeg",
-			"name": "Abstract 8",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(9).jpeg",
-			"name": "Abstract 9",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Dark%20(1).jpeg",
-			"name": "Abstract 10",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Dark%20(2).jpeg",
-			"name": "Abstract 11",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Dark%20(3).jpeg",
-			"name": "Abstract 12",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Dark%20(4).jpeg",
-			"name": "Abstract 13",
-			"collections": "Abstract"
-		},
-		{
-			"author": "W8CODE",
-			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Dark%20(7).jpeg",
-			"name": "Abstract 14",
-			"collections": "Abstract"
-		},
-
-
-
-
-
-
-
-
-
-    		{
-			"author": "W8CODE",
 			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Animal/Animal%20(1).jpeg",
 			"name": "Animal 1",
 			"collections": "Animal"
@@ -990,5 +897,98 @@
 			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Space/Space%20(85).jpeg",
 			"name": "Space 45",
 			"collections": "Space"
+		},
+
+
+
+
+
+
+
+
+
+    		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(1).jpeg",
+			"name": "Abstract 1",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(10).jpeg",
+			"name": "Abstract 2",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(11).jpeg",
+			"name": "Abstract 3",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(13).jpeg",
+			"name": "Abstract 4",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(2).jpeg",
+			"name": "Abstract 5",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(3).jpeg",
+			"name": "Abstract 6",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(4).jpeg",
+			"name": "Abstract 7",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(5).jpeg",
+			"name": "Abstract 8",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Abstract%20(9).jpeg",
+			"name": "Abstract 9",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Dark%20(1).jpeg",
+			"name": "Abstract 10",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Dark%20(2).jpeg",
+			"name": "Abstract 11",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Dark%20(3).jpeg",
+			"name": "Abstract 12",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Dark%20(4).jpeg",
+			"name": "Abstract 13",
+			"collections": "Abstract"
+		},
+		{
+			"author": "W8CODE",
+			"url": "https://raw.githubusercontent.com/Purv06/WallStyle.json/main/Abstract/Dark%20(7).jpeg",
+			"name": "Abstract 14",
+			"collections": "Abstract"
 		}
 ]
